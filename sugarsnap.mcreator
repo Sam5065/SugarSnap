@@ -23,10 +23,11 @@
   "workspaceSettings": {
     "modid": "sugarsnap",
     "modName": "SugarSnap",
-    "version": "1.0.0",
-    "author": "Sam, MCreator",
-    "websiteURL": "https://mcreator.net",
-    "license": "Academic Free License v3.0",
+    "version": "b1.1",
+    "description": "This mod adds back the paper recipe from the base game",
+    "author": "SamH",
+    "websiteURL": "https://github.com/Sam5065/SugarSnap",
+    "license": "GNU General Public License version 2 (GPLv2)",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
     "requiredMods": [],
@@ -34,6 +35,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "net.mcreator.sugarsnap",
     "lockBaseModFiles": false
   },
