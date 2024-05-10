@@ -1,6 +1,6 @@
 # SugarSnap
 
-This mod inlcudes different features. The main feature is the paper recipe using sugar cane (hence the name)
+This mod inlcudes different features. The main feature is the paper recipe using sugar cane (hence the name of the mod)
 
 In my custom modpack, other mods changed the paper recipe, this mod adds it back.
 
