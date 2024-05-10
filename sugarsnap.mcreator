@@ -63,8 +63,8 @@
   "workspaceSettings": {
     "modid": "sugarsnap",
     "modName": "SugarSnap",
-    "version": "b1.1",
-    "description": "This mod adds back the paper recipe from the base game",
+    "version": "b2",
+    "description": "A forge mod which adds features onto my own modpack",
     "author": "SamH",
     "websiteURL": "https://github.com/Sam5065/SugarSnap",
     "license": "GNU General Public License version 2 (GPLv2)",
