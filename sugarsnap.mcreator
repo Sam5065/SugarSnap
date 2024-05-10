@@ -36,6 +36,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "jadepicrecipe"
+    },
+    {
+      "name": "Jadewitch",
+      "type": "loottable",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jadewitch"
     }
   ],
   "variable_elements": [],
