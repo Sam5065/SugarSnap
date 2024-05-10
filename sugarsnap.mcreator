@@ -9,12 +9,51 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "paper_recipe"
+    },
+    {
+      "name": "Jadeitem",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jadeitem"
+    },
+    {
+      "name": "Jadepic",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jadepic"
+    },
+    {
+      "name": "Jadepicrecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jadepicrecipe"
+    },
+    {
+      "name": "Jadewitch",
+      "type": "loottable",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jadewitch"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "item.sugarsnap.jadeitem": "Jade",
+      "item.sugarsnap.jadepic": "Jadepic"
+    }
   },
   "foldersRoot": {
     "name": "~",
@@ -23,8 +62,10 @@
   "workspaceSettings": {
     "modid": "sugarsnap",
     "modName": "SugarSnap",
-    "version": "b1.1",
-    "description": "This mod adds back the paper recipe from the base game",
+
+    "version": "b2",
+    "description": "A forge mod which adds features onto my own modpack",
+
     "author": "SamH",
     "websiteURL": "https://github.com/Sam5065/SugarSnap",
     "license": "GNU General Public License version 2 (GPLv2)",
