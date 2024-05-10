@@ -52,7 +52,7 @@
   "language_map": {
     "en_us": {
       "item.sugarsnap.jadeitem": "Jade",
-      "item.sugarsnap.jadepic": "Jadepic"
+      "item.sugarsnap.jadepic": "Jade Pickaxe"
     }
   },
   "foldersRoot": {
@@ -62,10 +62,8 @@
   "workspaceSettings": {
     "modid": "sugarsnap",
     "modName": "SugarSnap",
-
     "version": "b2",
     "description": "A forge mod which adds features onto my own modpack",
-
     "author": "SamH",
     "websiteURL": "https://github.com/Sam5065/SugarSnap",
     "license": "GNU General Public License version 2 (GPLv2)",
