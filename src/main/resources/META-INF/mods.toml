@@ -4,13 +4,14 @@ license="GNU General Public License version 2 (GPLv2)"
 
 [[mods]]
 modId="sugarsnap"
+
 version="b2"
 displayName="SugarSnap"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
 displayURL="https://github.com/Sam5065/SugarSnap"
 authors="SamH"
 description='''
-A forge mod which adds features onto my own modpack
+
 '''
 
 [[dependencies.sugarsnap]]
