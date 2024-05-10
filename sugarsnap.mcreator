@@ -45,6 +45,33 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "jadewitch"
+    },
+    {
+      "name": "JadeOre",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jade_ore"
+    },
+    {
+      "name": "RawJadeItem",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_jade_item"
+    },
+    {
+      "name": "JawtonormalJade",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jawtonormal_jade"
     }
   ],
   "variable_elements": [],
@@ -52,7 +79,9 @@
   "language_map": {
     "en_us": {
       "item.sugarsnap.jadeitem": "Jade",
-      "item.sugarsnap.jadepic": "Jade Pickaxe"
+      "item.sugarsnap.raw_jade_item": "Raw Jade",
+      "item.sugarsnap.jadepic": "Jade Pickaxe",
+      "block.sugarsnap.jade_ore": "Jade Ore"
     }
   },
   "foldersRoot": {
