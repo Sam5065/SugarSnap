@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sugarsnap:blocks/jadeore",
+    "up": "sugarsnap:blocks/jadeore",
+    "north": "sugarsnap:blocks/jadeore",
+    "east": "sugarsnap:blocks/jadeore",
+    "south": "sugarsnap:blocks/jadeore",
+    "west": "sugarsnap:blocks/jadeore",
+    "particle": "sugarsnap:blocks/jadeore"
+  }
+}
