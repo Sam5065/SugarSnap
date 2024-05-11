@@ -1,5 +1,4 @@
 {
-  "id_map": {},
   "mod_elements": [
     {
       "name": "PaperRecipe",
@@ -7,7 +6,6 @@
       "sortid": 1,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "paper_recipe"
     },
     {
@@ -16,7 +14,6 @@
       "sortid": 3,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jadeitem"
     },
     {
@@ -25,7 +22,6 @@
       "sortid": 4,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jadepic"
     },
     {
@@ -34,7 +30,6 @@
       "sortid": 5,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jadepicrecipe"
     },
     {
@@ -43,7 +38,6 @@
       "sortid": 6,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jadewitch"
     },
     {
@@ -52,7 +46,6 @@
       "sortid": 7,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jade_ore"
     },
     {
@@ -61,7 +54,6 @@
       "sortid": 8,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "raw_jade_item"
     },
     {
@@ -70,7 +62,6 @@
       "sortid": 9,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jawtonormal_jade"
     },
     {
@@ -79,7 +70,6 @@
       "sortid": 10,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jade_block"
     },
     {
@@ -88,7 +78,6 @@
       "sortid": 11,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "woke_effect"
     },
     {
@@ -97,7 +86,6 @@
       "sortid": 12,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "woke_potion"
     },
     {
@@ -106,7 +94,6 @@
       "sortid": 13,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "wokeness_item"
     },
     {
@@ -115,7 +102,6 @@
       "sortid": 13,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "wokerecipe"
     },
     {
@@ -124,8 +110,15 @@
       "sortid": 14,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "jadeblockrecipe"
+    },
+    {
+      "name": "Wokeloottable",
+      "type": "loottable",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wokeloottable"
     }
   ],
   "variable_elements": [],
