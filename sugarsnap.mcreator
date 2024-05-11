@@ -72,6 +72,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "jawtonormal_jade"
+    },
+    {
+      "name": "JadeBlock",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jade_block"
     }
   ],
   "variable_elements": [],
@@ -81,7 +90,8 @@
       "item.sugarsnap.jadeitem": "Polished Jade",
       "item.sugarsnap.raw_jade_item": "Raw Jade",
       "item.sugarsnap.jadepic": "Jade Pickaxe",
-      "block.sugarsnap.jade_ore": "Nether Raw Jade Ore"
+      "block.sugarsnap.jade_ore": "Nether Raw Jade Ore",
+      "block.sugarsnap.jade_block": "Polished Jade Block"
     }
   },
   "foldersRoot": {
