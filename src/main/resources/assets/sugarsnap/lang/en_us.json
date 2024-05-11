@@ -3,5 +3,6 @@
   "item.sugarsnap.raw_jade_item": "Raw Jade",
   "item.sugarsnap.jadepic": "Jade Pickaxe",
   "block.sugarsnap.jade_ore": "Nether Raw Jade Ore",
-  "block.sugarsnap.jade_block": "Polished Jade Block"
+  "block.sugarsnap.jade_block": "Polished Jade Block",
+  "effect.woke_effect": "Wokeness"
 }
