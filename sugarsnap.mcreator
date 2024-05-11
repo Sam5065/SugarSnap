@@ -81,6 +81,42 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "jade_block"
+    },
+    {
+      "name": "WokeEffect",
+      "type": "potioneffect",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "woke_effect"
+    },
+    {
+      "name": "WokePotion",
+      "type": "potion",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "woke_potion"
+    },
+    {
+      "name": "WokenessItem",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wokeness_item"
+    },
+    {
+      "name": "Wokerecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wokerecipe"
     }
   ],
   "variable_elements": [],
@@ -91,7 +127,13 @@
       "item.sugarsnap.raw_jade_item": "Raw Jade",
       "item.sugarsnap.jadepic": "Jade Pickaxe",
       "block.sugarsnap.jade_ore": "Nether Raw Jade Ore",
-      "block.sugarsnap.jade_block": "Polished Jade Block"
+      "item.minecraft.lingering_potion.effect.woke_potion": "Lingering Potion of Woke",
+      "item.sugarsnap.wokeness_item": "Wokeness",
+      "block.sugarsnap.jade_block": "Polished Jade Block",
+      "item.minecraft.splash_potion.effect.woke_potion": "Splash Potion of Woke",
+      "item.minecraft.tipped_arrow.effect.woke_potion": "Arrow of Woke",
+      "effect.woke_effect": "Wokeness",
+      "item.minecraft.potion.effect.woke_potion": "Potion of Woke"
     }
   },
   "foldersRoot": {
