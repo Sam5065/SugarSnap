@@ -87,7 +87,7 @@ public class JadeOreBlock extends SugarsnapModElements.ModElement {
 		static final com.mojang.serialization.Codec<CustomRuleTest> codec = com.mojang.serialization.Codec.unit(() -> INSTANCE);
 		public boolean test(BlockState blockAt, Random random) {
 			boolean blockCriteria = false;
-			if (blockAt.getBlock() == Blocks.STONE)
+			if (blockAt.getBlock() == Blocks.NETHERRACK)
 				blockCriteria = true;
 			return blockCriteria;
 		}
@@ -113,7 +113,7 @@ public class JadeOreBlock extends SugarsnapModElements.ModElement {
 					return super.generate(world, generator, rand, pos, config);
 				}
 			};
-			configuredFeature = feature.withConfiguration(new OreFeatureConfig(CustomRuleTest.INSTANCE, block.getDefaultState(), 16)).range(64)
+			configuredFeature = feature.withConfiguration(new OreFeatureConfig(CustomRuleTest.INSTANCE, block.getDefaultState(), 16)).range(100)
 					.square().func_242731_b(10);
 			event.getRegistry().register(feature.setRegistryName("jade_ore"));
 			Registry.register(WorldGenRegistries.CONFIGURED_FEATURE, new ResourceLocation("sugarsnap:jade_ore"), configuredFeature);
