@@ -3,10 +3,10 @@
   "textures": {
     "down": "sugarsnap:blocks/jadenetherrack",
     "up": "sugarsnap:blocks/jadenetherrack",
-    "north": "sugarsnap:blocks/jadenetherrack",
-    "east": "sugarsnap:blocks/jadenetherrack",
+    "north": "sugarsnap:blocks/jade_nether_second",
+    "east": "sugarsnap:blocks/jade_nether_second",
     "south": "sugarsnap:blocks/jadenetherrack",
-    "west": "sugarsnap:blocks/jadenetherrack",
+    "west": "sugarsnap:blocks/jade_nether_second",
     "particle": "sugarsnap:blocks/jadenetherrack"
   }
 }

@@ -1,7 +1,19 @@
 {
   "variants": {
-    "": {
+    "facing=north": {
       "model": "sugarsnap:block/jade_ore"
+    },
+    "facing=east": {
+      "model": "sugarsnap:block/jade_ore",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sugarsnap:block/jade_ore",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sugarsnap:block/jade_ore",
+      "y": 270
     }
   }
 }
