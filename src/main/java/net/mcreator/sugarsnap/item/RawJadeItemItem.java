@@ -3,13 +3,19 @@ package net.mcreator.sugarsnap.item;
 
 import net.minecraftforge.registries.ObjectHolder;
 
+import net.minecraft.world.World;
+import net.minecraft.util.text.StringTextComponent;
+import net.minecraft.util.text.ITextComponent;
 import net.minecraft.item.Rarity;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.Item;
+import net.minecraft.client.util.ITooltipFlag;
 import net.minecraft.block.BlockState;
 
 import net.mcreator.sugarsnap.SugarsnapModElements;
+
+import java.util.List;
 
 @SugarsnapModElements.ModElement.Tag
 public class RawJadeItemItem extends SugarsnapModElements.ModElement {
@@ -42,6 +48,12 @@ public class RawJadeItemItem extends SugarsnapModElements.ModElement {
 		@Override
 		public float getDestroySpeed(ItemStack par1ItemStack, BlockState par2Block) {
 			return 1F;
+		}
+
+		@Override
+		public void addInformation(ItemStack itemstack, World world, List<ITextComponent> list, ITooltipFlag flag) {
+			super.addInformation(itemstack, world, list, flag);
+			list.add(new StringTextComponent("Can be cut with a stonecutter to give polished jade"));
 		}
 	}
 }
