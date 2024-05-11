@@ -1,12 +1,12 @@
 {
   "parent": "block/cube",
   "textures": {
-    "down": "sugarsnap:blocks/jadeore",
-    "up": "sugarsnap:blocks/jadeore",
-    "north": "sugarsnap:blocks/jadeore",
-    "east": "sugarsnap:blocks/jadeore",
-    "south": "sugarsnap:blocks/jadeore",
-    "west": "sugarsnap:blocks/jadeore",
-    "particle": "sugarsnap:blocks/jadeore"
+    "down": "sugarsnap:blocks/jadenetherrack",
+    "up": "sugarsnap:blocks/jadenetherrack",
+    "north": "sugarsnap:blocks/jadenetherrack",
+    "east": "sugarsnap:blocks/jadenetherrack",
+    "south": "sugarsnap:blocks/jadenetherrack",
+    "west": "sugarsnap:blocks/jadenetherrack",
+    "particle": "sugarsnap:blocks/jadenetherrack"
   }
 }
