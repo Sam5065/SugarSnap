@@ -1,0 +1,42 @@
+{
+  "group": "sugarsnap",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sugarsnap:jadeitem"
+    },
+    "1": {
+      "item": "sugarsnap:jadeitem"
+    },
+    "2": {
+      "item": "sugarsnap:jadeitem"
+    },
+    "3": {
+      "item": "sugarsnap:jadeitem"
+    },
+    "4": {
+      "item": "sugarsnap:jadeitem"
+    },
+    "5": {
+      "item": "sugarsnap:jadeitem"
+    },
+    "6": {
+      "item": "sugarsnap:jadeitem"
+    },
+    "7": {
+      "item": "sugarsnap:jadeitem"
+    },
+    "8": {
+      "item": "sugarsnap:jadeitem"
+    }
+  },
+  "result": {
+    "item": "sugarsnap:jade_block",
+    "count": 1
+  }
+}
