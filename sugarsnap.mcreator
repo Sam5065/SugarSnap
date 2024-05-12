@@ -157,6 +157,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "jade_hoe"
+    },
+    {
+      "name": "JadeHoeRecipe",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jade_hoe_recipe"
     }
   ],
   "variable_elements": [],
