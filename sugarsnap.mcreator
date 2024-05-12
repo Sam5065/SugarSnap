@@ -125,6 +125,38 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "jade_shears"
+    },
+    {
+      "name": "ShearRecipe",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shear_recipe"
+    },
+    {
+      "name": "JadeSwordrecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jade_swordrecipe"
+    },
+    {
+      "name": "JadeAxeRecipe",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jade_axe_recipe"
+    },
+    {
+      "name": "JadeHoe",
+      "type": "tool",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jade_hoe"
     }
   ],
   "variable_elements": [],
@@ -142,6 +174,7 @@
       "item.sugarsnap.jade_sword": "Jade Sword",
       "item.sugarsnap.jade_armor_chestplate": "Jade Armor Body",
       "block.sugarsnap.stonejade_ore": "Nether Jade Ore",
+      "item.sugarsnap.jade_hoe": "Jade Hoe",
       "item.sugarsnap.raw_jade_item": "Raw Jade",
       "block.sugarsnap.dark_jade_nether_ore": "Nether Jade Ore",
       "block.sugarsnap.jade_block": "Polished Jade Block"

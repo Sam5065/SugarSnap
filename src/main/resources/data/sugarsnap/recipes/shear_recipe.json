@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:shears"
+    },
+    {
+      "item": "sugarsnap:raw_jade_item"
+    },
+    {
+      "item": "sugarsnap:raw_jade_item"
+    }
+  ],
+  "result": {
+    "item": "sugarsnap:jade_shears",
+    "count": 1
+  }
+}

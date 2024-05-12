@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "sugarsnap:jadeitem"
+    },
+    "1": {
+      "item": "sugarsnap:raw_jade_item"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "sugarsnap:jade_sword",
+    "count": 1
+  }
+}
