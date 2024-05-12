@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sugarsnap:blocks/netherjade3",
+    "particle": "sugarsnap:blocks/netherjade3"
+  }
+}
