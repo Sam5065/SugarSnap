@@ -109,6 +109,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "jade_axe"
+    },
+    {
+      "name": "JadeSword",
+      "type": "tool",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jade_sword"
     }
   ],
   "variable_elements": [],
@@ -122,6 +130,7 @@
       "item.sugarsnap.jade_armor_leggings": "Jade Armor Leggings",
       "block.sugarsnap.jade_ore": "Nether Jade Ore",
       "item.sugarsnap.jade_armor_boots": "Jade Armor Boots",
+      "item.sugarsnap.jade_sword": "Jade Sword",
       "item.sugarsnap.jade_armor_chestplate": "Jade Armor Body",
       "block.sugarsnap.stonejade_ore": "Nether Jade Ore",
       "item.sugarsnap.raw_jade_item": "Raw Jade",
