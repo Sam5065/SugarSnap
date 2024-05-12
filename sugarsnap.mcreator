@@ -197,6 +197,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "fireium_jade_block"
+    },
+    {
+      "name": "FireiumJadeRecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fireium_jade_recipe"
     }
   ],
   "variable_elements": [],
