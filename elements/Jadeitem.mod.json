@@ -5,7 +5,7 @@
     "renderType": 0,
     "texture": "jade",
     "customModelName": "Normal",
-    "name": "Polished Jade",
+    "name": "Cut Jade",
     "rarity": "COMMON",
     "creativeTab": {
       "value": "MATERIALS"
@@ -33,6 +33,9 @@
     "isFood": false,
     "nutritionalValue": 0,
     "saturation": 0.30000001192092896,
+    "eatResultItem": {
+      "value": ""
+    },
     "isMeat": false,
     "isAlwaysEdible": false,
     "animation": "eat"
