@@ -72,7 +72,7 @@ public class DarkJadeNetherOreBlock extends SugarsnapModElements.ModElement {
 		public static final DirectionProperty FACING = HorizontalBlock.HORIZONTAL_FACING;
 
 		public CustomBlock() {
-			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0).harvestLevel(2)
+			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0).harvestLevel(3)
 					.harvestTool(ToolType.PICKAXE).setRequiresTool());
 			this.setDefaultState(this.stateContainer.getBaseState().with(FACING, Direction.NORTH));
 			setRegistryName("dark_jade_nether_ore");
@@ -107,7 +107,7 @@ public class DarkJadeNetherOreBlock extends SugarsnapModElements.ModElement {
 			List<ItemStack> dropsOriginal = super.getDrops(state, builder);
 			if (!dropsOriginal.isEmpty())
 				return dropsOriginal;
-			return Collections.singletonList(new ItemStack(RawJadeItemItem.block));
+			return Collections.singletonList(new ItemStack(RawJadeItemItem.block, (int) (2)));
 		}
 	}
 
@@ -121,7 +121,7 @@ public class DarkJadeNetherOreBlock extends SugarsnapModElements.ModElement {
 
 		public boolean test(BlockState blockAt, Random random) {
 			boolean blockCriteria = false;
-			if (blockAt.getBlock() == Blocks.NETHERRACK)
+			if (blockAt.getBlock() == Blocks.BASALT)
 				blockCriteria = true;
 			return blockCriteria;
 		}

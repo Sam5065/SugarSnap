@@ -2,7 +2,7 @@
   "_fv": 28,
   "_type": "block",
   "definition": {
-    "texture": "netherjade3",
+    "texture": "basaltjadeore",
     "textureTop": "jadenetherrack",
     "textureLeft": "jade_nether_second",
     "textureFront": "",
@@ -45,7 +45,7 @@
     "customDrop": {
       "value": "CUSTOM:RawJadeItem"
     },
-    "dropAmount": 1,
+    "dropAmount": 2,
     "useLootTableForDrops": false,
     "enchantPowerBonus": 0.0,
     "plantsGrowOn": false,
@@ -96,7 +96,7 @@
     },
     "luminance": 0,
     "unbreakable": false,
-    "breakHarvestLevel": 2,
+    "breakHarvestLevel": 3,
     "spawnParticles": false,
     "particleToSpawn": {
       "value": "EXPLOSION_NORMAL"
@@ -127,7 +127,7 @@
     "restrictionBiomes": [],
     "blocksToReplace": [
       {
-        "value": "Blocks.NETHERRACK"
+        "value": "Blocks.BASALT"
       }
     ],
     "generationShape": "UNIFORM",
