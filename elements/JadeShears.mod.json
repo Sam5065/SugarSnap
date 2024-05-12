@@ -3,7 +3,7 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "jadeshears",
+    "texture": "jadeshears_new",
     "customModelName": "Normal",
     "name": "Jade Shears",
     "specialInfo": [
