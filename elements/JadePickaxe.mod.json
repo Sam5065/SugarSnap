@@ -22,9 +22,6 @@
     "repairItems": [
       {
         "value": "CUSTOM:RawJadeItem"
-      },
-      {
-        "value": "CUSTOM:Jadeitem"
       }
     ],
     "immuneToFire": false,

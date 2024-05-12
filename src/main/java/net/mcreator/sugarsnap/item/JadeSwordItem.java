@@ -5,6 +5,7 @@ import net.minecraftforge.registries.ObjectHolder;
 
 import net.minecraft.item.crafting.Ingredient;
 import net.minecraft.item.SwordItem;
+import net.minecraft.item.ItemStack;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.Item;
 import net.minecraft.item.IItemTier;
@@ -44,7 +45,7 @@ public class JadeSwordItem extends SugarsnapModElements.ModElement {
 			}
 
 			public Ingredient getRepairMaterial() {
-				return Ingredient.EMPTY;
+				return Ingredient.fromStacks(new ItemStack(RawJadeItemItem.block));
 			}
 		}, 3, -2f, new Item.Properties().group(ItemGroup.TOOLS)) {
 		}.setRegistryName("jade_sword"));

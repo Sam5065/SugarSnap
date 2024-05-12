@@ -45,7 +45,7 @@ public class JadePickaxeItem extends SugarsnapModElements.ModElement {
 			}
 
 			public Ingredient getRepairMaterial() {
-				return Ingredient.fromStacks(new ItemStack(RawJadeItemItem.block), new ItemStack(JadeitemItem.block));
+				return Ingredient.fromStacks(new ItemStack(RawJadeItemItem.block));
 			}
 		}, 1, -3f, new Item.Properties().group(ItemGroup.TOOLS)) {
 		}.setRegistryName("jade_pickaxe"));

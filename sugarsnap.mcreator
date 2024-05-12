@@ -117,6 +117,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "jade_sword"
+    },
+    {
+      "name": "JadeShears",
+      "type": "tool",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jade_shears"
     }
   ],
   "variable_elements": [],
@@ -127,6 +135,7 @@
       "item.sugarsnap.jade_axe": "Jade Axe",
       "item.sugarsnap.jadeitem": "Polished Jade",
       "item.sugarsnap.jade_pickaxe": "Jade Pickaxe",
+      "item.sugarsnap.jade_shears": "Jade Shears",
       "item.sugarsnap.jade_armor_leggings": "Jade Armor Leggings",
       "block.sugarsnap.jade_ore": "Nether Jade Ore",
       "item.sugarsnap.jade_armor_boots": "Jade Armor Boots",
