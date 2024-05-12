@@ -213,6 +213,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_jade_block"
+    },
+    {
+      "name": "SmoothJadeBlockRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smooth_jade_block_recipe"
     }
   ],
   "variable_elements": [],
