@@ -147,8 +147,8 @@ public class JadeOreBlock extends SugarsnapModElements.ModElement {
 					return super.generate(world, generator, rand, pos, config);
 				}
 			};
-			configuredFeature = feature.withConfiguration(new OreFeatureConfig(CustomRuleTest.INSTANCE, block.getDefaultState(), 3)).range(100)
-					.square().func_242731_b(10);
+			configuredFeature = feature.withConfiguration(new OreFeatureConfig(CustomRuleTest.INSTANCE, block.getDefaultState(), 9)).range(100)
+					.square().func_242731_b(12);
 			event.getRegistry().register(feature.setRegistryName("jade_ore"));
 			Registry.register(WorldGenRegistries.CONFIGURED_FEATURE, new ResourceLocation("sugarsnap:jade_ore"), configuredFeature);
 		}

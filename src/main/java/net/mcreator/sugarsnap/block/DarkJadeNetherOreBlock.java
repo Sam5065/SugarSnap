@@ -148,7 +148,7 @@ public class DarkJadeNetherOreBlock extends SugarsnapModElements.ModElement {
 					return super.generate(world, generator, rand, pos, config);
 				}
 			};
-			configuredFeature = feature.withConfiguration(new OreFeatureConfig(CustomRuleTest.INSTANCE, block.getDefaultState(), 3)).range(100)
+			configuredFeature = feature.withConfiguration(new OreFeatureConfig(CustomRuleTest.INSTANCE, block.getDefaultState(), 9)).range(100)
 					.square().func_242731_b(10);
 			event.getRegistry().register(feature.setRegistryName("dark_jade_nether_ore"));
 			Registry.register(WorldGenRegistries.CONFIGURED_FEATURE, new ResourceLocation("sugarsnap:dark_jade_nether_ore"), configuredFeature);
