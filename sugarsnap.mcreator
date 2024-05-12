@@ -101,6 +101,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "jade_pickaxe"
+    },
+    {
+      "name": "JadeAxe",
+      "type": "tool",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jade_axe"
     }
   ],
   "variable_elements": [],
@@ -108,16 +116,17 @@
   "language_map": {
     "en_us": {
       "item.sugarsnap.jade_armor_helmet": "Jade Armor Helmet",
-      "block.sugarsnap.stonejade_ore": "Nether Jade Ore",
+      "item.sugarsnap.jade_axe": "Jade Axe",
       "item.sugarsnap.jadeitem": "Polished Jade",
       "item.sugarsnap.jade_pickaxe": "Jade Pickaxe",
-      "item.sugarsnap.raw_jade_item": "Raw Jade",
-      "block.sugarsnap.dark_jade_nether_ore": "Nether Jade Ore",
       "item.sugarsnap.jade_armor_leggings": "Jade Armor Leggings",
       "block.sugarsnap.jade_ore": "Nether Jade Ore",
-      "block.sugarsnap.jade_block": "Polished Jade Block",
       "item.sugarsnap.jade_armor_boots": "Jade Armor Boots",
-      "item.sugarsnap.jade_armor_chestplate": "Jade Armor Body"
+      "item.sugarsnap.jade_armor_chestplate": "Jade Armor Body",
+      "block.sugarsnap.stonejade_ore": "Nether Jade Ore",
+      "item.sugarsnap.raw_jade_item": "Raw Jade",
+      "block.sugarsnap.dark_jade_nether_ore": "Nether Jade Ore",
+      "block.sugarsnap.jade_block": "Polished Jade Block"
     }
   },
   "foldersRoot": {
