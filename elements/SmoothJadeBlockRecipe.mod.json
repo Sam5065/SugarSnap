@@ -1,0 +1,23 @@
+{
+  "_fv": 28,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smithing",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smithingInputStack": {
+      "value": "CUSTOM:JadeBlock"
+    },
+    "smithingInputAdditionStack": {
+      "value": "Items.DYE#10"
+    },
+    "smithingReturnStack": {
+      "value": "CUSTOM:SmoothJadeBlock"
+    },
+    "name": "smooth_jade_block_recipe",
+    "namespace": "mod"
+  }
+}
