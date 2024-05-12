@@ -2,14 +2,14 @@
   "_fv": 28,
   "_type": "block",
   "definition": {
-    "texture": "jadenetherrack",
+    "texture": "netherjade3",
     "textureTop": "jadenetherrack",
     "textureLeft": "jade_nether_second",
-    "textureFront": "jadenetherrack",
+    "textureFront": "",
     "textureRight": "jade_nether_second",
     "textureBack": "jadenetherrack",
-    "renderType": 10,
-    "customModelName": "Normal",
+    "renderType": 11,
+    "customModelName": "Single texture",
     "rotationMode": 1,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
@@ -32,7 +32,7 @@
         "subtract": false
       }
     ],
-    "name": "Nether Raw Jade Ore",
+    "name": "Nether Jade Ore",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,
