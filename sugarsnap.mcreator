@@ -181,6 +181,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "jade_trade"
+    },
+    {
+      "name": "RawjadeblockRecipe",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rawjadeblock_recipe"
     }
   ],
   "variable_elements": [],
