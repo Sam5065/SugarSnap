@@ -4,7 +4,7 @@ This mod inlcudes different features. The main feature is the paper recipe using
 
 Adds:
 - Jade related items
-- Readds the vinilla paper recipe
+- Readds the vanilla paper recipe
 
 ![Screenshot 2024-05-02 151103](https://github.com/Sam5065/SugarSnap/assets/20979204/b7fddb26-944c-4c4f-af6b-d4d6aca86e70)
 
