@@ -6,7 +6,9 @@
     "texture": "jadeshears",
     "customModelName": "Normal",
     "name": "Jade Shears",
-    "specialInfo": [],
+    "specialInfo": [
+      "Iron sheers with added jade to increase durability"
+    ],
     "creativeTab": {
       "value": "TOOLS"
     },
