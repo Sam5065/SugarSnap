@@ -165,6 +165,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "jade_hoe_recipe"
+    },
+    {
+      "name": "RawJadeBlock",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_jade_block"
     }
   ],
   "variable_elements": [],
@@ -180,6 +188,7 @@
       "block.sugarsnap.jade_ore": "Nether Jade Ore",
       "item.sugarsnap.jade_armor_boots": "Jade Armor Boots",
       "item.sugarsnap.jade_sword": "Jade Sword",
+      "block.sugarsnap.raw_jade_block": "Polished Jade Block",
       "item.sugarsnap.jade_armor_chestplate": "Jade Armor Body",
       "block.sugarsnap.stonejade_ore": "Jade Ore",
       "item.sugarsnap.jade_hoe": "Jade Hoe",
