@@ -7,7 +7,7 @@
     "cookingTime": 200,
     "recipeRetstackSize": 1,
     "group": "",
-    "recipeShapeless": false,
+    "recipeShapeless": true,
     "recipeSlots": [
       {
         "value": "CUSTOM:RawJadeItem"
@@ -16,7 +16,7 @@
         "value": "CUSTOM:RawJadeItem"
       },
       {
-        "value": "CUSTOM:RawJadeItem"
+        "value": ""
       },
       {
         "value": "CUSTOM:RawJadeItem"
@@ -25,16 +25,16 @@
         "value": "CUSTOM:RawJadeItem"
       },
       {
-        "value": "CUSTOM:RawJadeItem"
+        "value": ""
       },
       {
-        "value": "CUSTOM:RawJadeItem"
+        "value": ""
       },
       {
-        "value": "CUSTOM:RawJadeItem"
+        "value": ""
       },
       {
-        "value": "CUSTOM:RawJadeItem"
+        "value": ""
       }
     ],
     "recipeReturnStack": {
