@@ -33,14 +33,6 @@
       "registry_name": "jadepicrecipe"
     },
     {
-      "name": "Jadewitch",
-      "type": "loottable",
-      "sortid": 6,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "jadewitch"
-    },
-    {
       "name": "JadeOre",
       "type": "block",
       "sortid": 7,
@@ -79,14 +71,6 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "jadeblockrecipe"
-    },
-    {
-      "name": "Wokeloottable",
-      "type": "loottable",
-      "sortid": 15,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "wokeloottable"
     }
   ],
   "variable_elements": [],
