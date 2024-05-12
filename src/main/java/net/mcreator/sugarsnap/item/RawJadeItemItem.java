@@ -6,6 +6,7 @@ import net.minecraftforge.registries.ObjectHolder;
 import net.minecraft.world.World;
 import net.minecraft.util.text.StringTextComponent;
 import net.minecraft.util.text.ITextComponent;
+import net.minecraft.item.UseAction;
 import net.minecraft.item.Rarity;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.ItemGroup;
@@ -21,6 +22,7 @@ import java.util.List;
 public class RawJadeItemItem extends SugarsnapModElements.ModElement {
 	@ObjectHolder("sugarsnap:raw_jade_item")
 	public static final Item block = null;
+
 	public RawJadeItemItem(SugarsnapModElements instance) {
 		super(instance, 8);
 	}
@@ -29,10 +31,16 @@ public class RawJadeItemItem extends SugarsnapModElements.ModElement {
 	public void initElements() {
 		elements.items.add(() -> new ItemCustom());
 	}
+
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
 			super(new Item.Properties().group(ItemGroup.MISC).maxStackSize(64).rarity(Rarity.COMMON));
 			setRegistryName("raw_jade_item");
+		}
+
+		@Override
+		public UseAction getUseAction(ItemStack itemstack) {
+			return UseAction.EAT;
 		}
 
 		@Override

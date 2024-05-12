@@ -16,6 +16,7 @@ import net.mcreator.sugarsnap.SugarsnapModElements;
 public class JadepicItem extends SugarsnapModElements.ModElement {
 	@ObjectHolder("sugarsnap:jadepic")
 	public static final Item block = null;
+
 	public JadepicItem(SugarsnapModElements instance) {
 		super(instance, 4);
 	}

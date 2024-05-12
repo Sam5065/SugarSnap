@@ -25,6 +25,7 @@ import java.util.Collections;
 public class JadeBlockBlock extends SugarsnapModElements.ModElement {
 	@ObjectHolder("sugarsnap:jade_block")
 	public static final Block block = null;
+
 	public JadeBlockBlock(SugarsnapModElements instance) {
 		super(instance, 10);
 	}
@@ -35,6 +36,7 @@ public class JadeBlockBlock extends SugarsnapModElements.ModElement {
 		elements.items
 				.add(() -> new BlockItem(block, new Item.Properties().group(ItemGroup.BUILDING_BLOCKS)).setRegistryName(block.getRegistryName()));
 	}
+
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
 			super(Block.Properties.create(Material.ROCK).sound(SoundType.METAL).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0).harvestLevel(2)

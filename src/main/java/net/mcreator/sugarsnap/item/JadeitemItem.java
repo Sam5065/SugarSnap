@@ -3,6 +3,7 @@ package net.mcreator.sugarsnap.item;
 
 import net.minecraftforge.registries.ObjectHolder;
 
+import net.minecraft.item.UseAction;
 import net.minecraft.item.Rarity;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.ItemGroup;
@@ -15,6 +16,7 @@ import net.mcreator.sugarsnap.SugarsnapModElements;
 public class JadeitemItem extends SugarsnapModElements.ModElement {
 	@ObjectHolder("sugarsnap:jadeitem")
 	public static final Item block = null;
+
 	public JadeitemItem(SugarsnapModElements instance) {
 		super(instance, 3);
 	}
@@ -23,10 +25,16 @@ public class JadeitemItem extends SugarsnapModElements.ModElement {
 	public void initElements() {
 		elements.items.add(() -> new ItemCustom());
 	}
+
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
 			super(new Item.Properties().group(ItemGroup.MATERIALS).maxStackSize(64).rarity(Rarity.COMMON));
 			setRegistryName("jadeitem");
+		}
+
+		@Override
+		public UseAction getUseAction(ItemStack itemstack) {
+			return UseAction.EAT;
 		}
 
 		@Override
