@@ -71,6 +71,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "jadeblockrecipe"
+    },
+    {
+      "name": "DarkJadeNetherOre",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_jade_nether_ore"
     }
   ],
   "variable_elements": [],
@@ -79,6 +87,7 @@
     "en_us": {
       "item.sugarsnap.jadeitem": "Polished Jade",
       "item.sugarsnap.raw_jade_item": "Raw Jade",
+      "block.sugarsnap.dark_jade_nether_ore": "Nether Jade Ore",
       "item.sugarsnap.jadepic": "Jadepic",
       "block.sugarsnap.jade_ore": "Nether Jade Ore",
       "block.sugarsnap.jade_block": "Polished Jade Block"
