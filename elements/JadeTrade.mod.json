@@ -27,6 +27,85 @@
             "priceMultiplier": 0.05
           }
         ]
+      },
+      {
+        "villagerProfession": {
+          "value": "ARMORER"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 10,
+            "price2": {
+              "value": "CUSTOM:Jadeitem"
+            },
+            "countPrice2": 8,
+            "offer": {
+              "value": "CUSTOM:JadeArmor.body"
+            },
+            "countOffer": 1,
+            "level": 5,
+            "maxTrades": 4,
+            "xp": 5,
+            "priceMultiplier": 0.05
+          },
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 8,
+            "price2": {
+              "value": "CUSTOM:Jadeitem"
+            },
+            "countPrice2": 7,
+            "offer": {
+              "value": "CUSTOM:JadeArmor.legs"
+            },
+            "countOffer": 1,
+            "level": 3,
+            "maxTrades": 4,
+            "xp": 5,
+            "priceMultiplier": 0.05
+          },
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 6,
+            "price2": {
+              "value": "CUSTOM:Jadeitem"
+            },
+            "countPrice2": 4,
+            "offer": {
+              "value": "CUSTOM:JadeArmor.boots"
+            },
+            "countOffer": 1,
+            "level": 2,
+            "maxTrades": 4,
+            "xp": 5,
+            "priceMultiplier": 0.05
+          },
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 7,
+            "price2": {
+              "value": "CUSTOM:Jadeitem"
+            },
+            "countPrice2": 5,
+            "offer": {
+              "value": "CUSTOM:JadeArmor.helmet"
+            },
+            "countOffer": 1,
+            "level": 4,
+            "maxTrades": 3,
+            "xp": 5,
+            "priceMultiplier": 0.05
+          }
+        ]
       }
     ]
   }

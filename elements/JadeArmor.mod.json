@@ -3,13 +3,13 @@
   "_type": "armor",
   "definition": {
     "enableHelmet": true,
-    "textureHelmet": "jadeamor_head",
+    "textureHelmet": "jadearmour_head",
     "enableBody": true,
-    "textureBody": "jadeamor_body",
+    "textureBody": "jadearmour_body",
     "enableLeggings": true,
-    "textureLeggings": "jadeamor_leggings",
+    "textureLeggings": "jadearmour_leggings",
     "enableBoots": true,
-    "textureBoots": "jadeamor_boots",
+    "textureBoots": "jadearmour_boots",
     "creativeTab": {
       "value": "COMBAT"
     },

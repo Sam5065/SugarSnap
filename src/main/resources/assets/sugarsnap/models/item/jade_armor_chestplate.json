@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "sugarsnap:items/jadeamor_body"
+    "layer0": "sugarsnap:items/jadearmour_body"
   }
 }

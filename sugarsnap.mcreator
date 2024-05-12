@@ -173,6 +173,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "raw_jade_block"
+    },
+    {
+      "name": "JadeTrade",
+      "type": "villagertrade",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jade_trade"
     }
   ],
   "variable_elements": [],
