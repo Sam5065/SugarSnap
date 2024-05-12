@@ -24,7 +24,8 @@ public class JadeTradeTrade {
 	public static void registerTrades(VillagerTradesEvent event) {
 		Int2ObjectMap<List<VillagerTrades.ITrade>> trades = event.getTrades();
 		if (event.getType() == VillagerProfession.CLERIC) {
-			trades.get(5).add(new BasicTrade(new ItemStack(Items.GOLD_INGOT, (int) (10)), new ItemStack(JadeitemItem.block), 10, 5, 0.05f));
+			trades.get(5)
+					.add(new BasicTrade(new ItemStack(Items.GOLD_INGOT, (int) (10)), new ItemStack(JadeitemItem.block, (int) (2)), 10, 5, 0.05f));
 		}
 		if (event.getType() == VillagerProfession.ARMORER) {
 			trades.get(5).add(new BasicTrade(new ItemStack(Items.EMERALD, (int) (10)), new ItemStack(JadeitemItem.block, (int) (8)),
