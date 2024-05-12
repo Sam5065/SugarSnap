@@ -38,7 +38,7 @@
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:Jadepic"
+      "value": "CUSTOM:JadePickaxe"
     },
     "name": "jadepicrecipe",
     "namespace": "mod"
