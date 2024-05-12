@@ -17,14 +17,6 @@
       "registry_name": "jadeitem"
     },
     {
-      "name": "Jadepic",
-      "type": "tool",
-      "sortid": 4,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "jadepic"
-    },
-    {
       "name": "Jadepicrecipe",
       "type": "recipe",
       "sortid": 5,
@@ -113,7 +105,6 @@
       "item.sugarsnap.raw_jade_item": "Raw Jade",
       "block.sugarsnap.dark_jade_nether_ore": "Nether Jade Ore",
       "item.sugarsnap.jade_armor_leggings": "Jade Armor Leggings",
-      "item.sugarsnap.jadepic": "Jadepic",
       "block.sugarsnap.jade_ore": "Nether Jade Ore",
       "block.sugarsnap.jade_block": "Polished Jade Block",
       "item.sugarsnap.jade_armor_boots": "Jade Armor Boots",
