@@ -32,7 +32,7 @@
         "subtract": false
       }
     ],
-    "name": "Nether Jade Ore",
+    "name": "Basalt Jade Ore",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,
@@ -45,7 +45,7 @@
     "customDrop": {
       "value": "CUSTOM:RawJadeItem"
     },
-    "dropAmount": 2,
+    "dropAmount": 1,
     "useLootTableForDrops": false,
     "enchantPowerBonus": 0.0,
     "plantsGrowOn": false,

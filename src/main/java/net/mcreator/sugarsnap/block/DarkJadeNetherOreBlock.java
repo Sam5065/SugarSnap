@@ -107,7 +107,7 @@ public class DarkJadeNetherOreBlock extends SugarsnapModElements.ModElement {
 			List<ItemStack> dropsOriginal = super.getDrops(state, builder);
 			if (!dropsOriginal.isEmpty())
 				return dropsOriginal;
-			return Collections.singletonList(new ItemStack(RawJadeItemItem.block, (int) (2)));
+			return Collections.singletonList(new ItemStack(RawJadeItemItem.block));
 		}
 	}
 
