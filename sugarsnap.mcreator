@@ -93,6 +93,14 @@
         "eb": true,
         "ec": true
       }
+    },
+    {
+      "name": "StonejadeOre",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stonejade_ore"
     }
   ],
   "variable_elements": [],
@@ -100,6 +108,7 @@
   "language_map": {
     "en_us": {
       "item.sugarsnap.jade_armor_helmet": "Jade Armor Helmet",
+      "block.sugarsnap.stonejade_ore": "Nether Jade Ore",
       "item.sugarsnap.jadeitem": "Polished Jade",
       "item.sugarsnap.raw_jade_item": "Raw Jade",
       "block.sugarsnap.dark_jade_nether_ore": "Nether Jade Ore",
