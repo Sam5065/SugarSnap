@@ -1,12 +1,8 @@
 {
-  "type": "minecraft:smithing",
-  "base": {
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
     "item": "sugarsnap:jade_block"
   },
-  "addition": {
-    "item": "minecraft:lime_dye"
-  },
-  "result": {
-    "item": "sugarsnap:smooth_jade_block"
-  }
+  "result": "sugarsnap:smooth_jade_block"
 }
