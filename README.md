@@ -9,7 +9,8 @@ Adds:
 - Jade Basalt Ore (Nether)
 - Readds the vanilla paper recipe
 
-![Screenshot 2024-05-02 151103](https://github.com/Sam5065/SugarSnap/assets/20979204/b7fddb26-944c-4c4f-af6b-d4d6aca86e70)
+![jadepic](https://github.com/Sam5065/SugarSnap/assets/20979204/33a4e2c4-ba13-4bed-974d-f8b81cbf7065)
+
 
 Created using MCreator ver 2022.1 for forge 1.16.5
 
