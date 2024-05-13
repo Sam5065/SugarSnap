@@ -3,7 +3,10 @@
 This mod inlcudes different features. The main feature is the paper recipe using sugar cane (hence the name of the mod). Any other features where suggested/wanted by members of my modded server.
 
 Adds:
-- Jade related items
+- Jade related items/tools
+- Jade Ore
+- Jade Nether Ore
+- Jade Basalt Ore (Nether)
 - Readds the vanilla paper recipe
 
 ![Screenshot 2024-05-02 151103](https://github.com/Sam5065/SugarSnap/assets/20979204/b7fddb26-944c-4c4f-af6b-d4d6aca86e70)
