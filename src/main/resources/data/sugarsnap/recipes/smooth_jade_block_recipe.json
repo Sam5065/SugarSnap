@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "count": 1,
-  "ingredient": {
-    "item": "sugarsnap:jade_block"
-  },
-  "result": "sugarsnap:smooth_jade_block"
-}
