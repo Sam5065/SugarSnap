@@ -8,6 +8,7 @@ Adds:
 - Jade Nether Ore
 - Jade Basalt Ore (Nether)
 - Readds the vanilla paper recipe
+- Saddle Recipe
 
 ![jadepic](https://github.com/Sam5065/SugarSnap/assets/20979204/33a4e2c4-ba13-4bed-974d-f8b81cbf7065)
 
