@@ -215,14 +215,6 @@
       "registry_name": "smooth_jade_block"
     },
     {
-      "name": "SmoothJadeBlockRecipe",
-      "type": "recipe",
-      "sortid": 33,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "smooth_jade_block_recipe"
-    },
-    {
       "name": "BuckItem",
       "type": "item",
       "sortid": 34,
@@ -253,6 +245,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "buckle_to_iron"
+    },
+    {
+      "name": "SmoothJadeSmeltingRecipe",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smooth_jade_smelting_recipe"
     }
   ],
   "variable_elements": [],
