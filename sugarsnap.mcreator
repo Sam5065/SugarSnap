@@ -221,6 +221,30 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_jade_block_recipe"
+    },
+    {
+      "name": "BuckItem",
+      "type": "item",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "buck_item"
+    },
+    {
+      "name": "BuckleRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "buckle_recipe"
+    },
+    {
+      "name": "SaddleRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "saddle_recipe"
     }
   ],
   "variable_elements": [],
@@ -239,6 +263,7 @@
       "item.sugarsnap.jade_armor_boots": "Jade Armor Boots",
       "item.sugarsnap.jade_sword": "Jade Sword",
       "block.sugarsnap.raw_jade_block": "Raw Jade Block",
+      "item.sugarsnap.buck_item": "Buckle",
       "item.sugarsnap.jade_armor_chestplate": "Jade Armor Body",
       "block.sugarsnap.stonejade_ore": "Jade Ore",
       "item.sugarsnap.jade_hoe": "Jade Hoe",
@@ -259,6 +284,7 @@
       "item.sugarsnap.jade_armor_boots": "Jade Armor Boots",
       "item.sugarsnap.jade_sword": "Jade Sword",
       "block.sugarsnap.raw_jade_block": "Raw Jade Block",
+      "item.sugarsnap.buck_item": "Buckle",
       "item.sugarsnap.jade_armor_chestplate": "Jade Armor Body",
       "block.sugarsnap.stonejade_ore": "Jade Ore",
       "item.sugarsnap.jade_hoe": "Jade Hoe",
