@@ -253,6 +253,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_jade_smelting_recipe"
+    },
+    {
+      "name": "BuckleVillagerTrade",
+      "type": "villagertrade",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "buckle_villager_trade"
     }
   ],
   "variable_elements": [],
