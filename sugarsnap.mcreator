@@ -245,6 +245,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "saddle_recipe"
+    },
+    {
+      "name": "BuckleToIron",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "buckle_to_iron"
     }
   ],
   "variable_elements": [],
