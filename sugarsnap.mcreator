@@ -261,6 +261,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "buckle_villager_trade"
+    },
+    {
+      "name": "GlisteringRecipe",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "glistering_recipe"
     }
   ],
   "variable_elements": [],
